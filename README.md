@@ -1,6 +1,7 @@
 230087778 - COM6017M - Internet of Things Project
 
 The moto_theft is the main code for the project which is uploaded to the Arduino Uno R4 WiFi.
+All sensitive keys have been removed for the public repository. (API, SSID and password, LoRaWAN Keys)
 
 Ive also uploaded the library for the Edge AI model which was trained in edge impulse,
 named moto_theft_detection_inferencing in the edge_ai_model folder.
